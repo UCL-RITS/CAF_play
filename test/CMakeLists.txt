@@ -1,1 +1,1 @@
-add_executable(gillie_test gillie_test.f08)
+add_executable(../gillie_test test_main.f90 gillie_test.f90)
